@@ -1,0 +1,36 @@
+.entertodo{
+    border: 1px solid black;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 5px;
+    font-size: 14px;
+    color: black;
+    border-radius: 4px;
+}
+.addtodo{
+    background-color: green;
+    color: white;
+    padding: 6px;
+    border: none;
+    border-radius: 5px;
+    font-size: 10px;
+}
+.todoname{
+    font-weight: 700;
+    margin-right: 10px;
+    font-size: 30px;
+}
+.removetodo{
+    background-color: red;
+    color: white;
+    padding: 6px;
+    border: none;
+    border-radius: 5px;
+    font-size: 10px;
+}
+.todcontainer{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    align-items: center;
+}
